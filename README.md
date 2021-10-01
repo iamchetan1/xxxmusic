@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
+</p>
 
 [@SAYUSuperBot](https://telegra.ph/file/38e2589a87380f8c5d1a4.jpg)
 
