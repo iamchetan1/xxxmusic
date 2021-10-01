@@ -1,6 +1,6 @@
 
 
-[@SAYUSuperBot](https://telegra.ph/file/38e2589a87380f8c5d1a4.jpg
+[@SAYUSuperBot](https://telegra.ph/file/38e2589a87380f8c5d1a4.jpg)
 
 `SESSION_NAME` Telegram String Session (Pyro)
 `DURATION_LIMIT` - use 15 or Higher
