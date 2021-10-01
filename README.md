@@ -1,5 +1,5 @@
-SESSION_NAME Telegram String Session (Pyro)
-DURATION_LIMIT - use 15 or Higher
+`SESSION_NAME` Telegram String Session (Pyro)
+`DURATION_LIMIT` - use 15 or Higher
 BOT_TOKEN Grab From @BotFather
 API_ID - telegram.org
 API_HASH - telegram.org
