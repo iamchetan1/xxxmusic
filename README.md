@@ -16,6 +16,6 @@
 
 `SUDO_USERS` - Not Required
 
-After Changing Arq api not required..
+ Arq api not required..
 
 [Click Here For String Session](https://repl.it/@SpEcHiDe/GenerateStringSession)
