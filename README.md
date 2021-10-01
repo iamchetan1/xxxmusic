@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
+  <img src="https://telegra.ph/file/38e2589a87380f8c5d1a4.jpg">
 </p>
 
-[@SAYUSuperBot](https://telegra.ph/file/38e2589a87380f8c5d1a4.jpg)
+[@SAYUSuperBot](https://t.me/SayuSuperbot)
 
 `SESSION_NAME` Telegram String Session (Pyro)
 `DURATION_LIMIT` - use 15 or Higher
